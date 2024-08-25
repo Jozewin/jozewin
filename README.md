@@ -27,5 +27,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jozewin&show_icons=true&locale=en&layout=compact" alt="jozewin" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jozewin&show_icons=true&locale=en" alt="jozewin" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jozewin&" alt="jozewin" /></p>
