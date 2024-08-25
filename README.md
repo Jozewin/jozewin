@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **josewinjosewin@gmail.com**
 
-- 📄 Know about my experiences [asdasd](asdasd)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
