@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Josewin D</h1>
-<h3 align="center">I love to learn new software technology daily. Currently , I am a second year BE Computer Science Engineering in Nehru Institute of Engineering and Technology, Coimbatore. I am a tech and software geek myself . My specialties include quickly learning new skills and programming languages, problem solving ,coding and logical thinking . So far I have the basics of MySQL and C, Python and Java and Kotlin under my belt. Currently, I have started learning Jetpack Compose. I am interested in works of AOSP , App development. • A leetcode a day keeps my indolence away! • Progress is never linear. Discipline • Consistency • Hardwork.</h3>
+<h3 align="center"> ~ Love the Things which interests me. 
+  ~ Android and Blockchain Enthusiast. 
+  ~ Water your self with technologies daily to bloom yourself into a Technology Garden <3.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jozewin&label=Profile%20views&color=0e75b6&style=flat" alt="jozewin" /> </p>
 
